@@ -2,19 +2,15 @@
 
 # 💫 Welcome to my digital space 
 
-***
-
 ## 🤓 I am .... 
 
-***
-💻...aspiring junior frontend developer
-🙋🏻‍♀️...in transition to tech field and looking for position, particularly in web and frontend development
-📚...continuously learning to improve my coding and programming skills through IT courses
-💡...hobbyist digital artist, longboard rider, geek and a self-proclaimed polyglot (CZ/EN/VN/FR/JP)
+-💻...aspiring junior frontend developer
+-🙋🏻‍♀️...in transition to tech field and looking for position, particularly in web and frontend development
+-📚...continuously learning to improve my coding and programming skills through IT courses
+-💡...hobbyist digital artist, longboard rider, geek and a self-proclaimed polyglot (CZ/EN/VN/FR/JP)
 
 ## 💼 Languages and tools
 
-***
 
 
 
