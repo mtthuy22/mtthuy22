@@ -1,6 +1,6 @@
 # Hello, welcome to my coding space 🙋🏻‍♀️ 
 
-<a target="blank"><img align="center" src="(https://github.com/mtthuy22/mtthuy22/assets/61125935/8bc3bbca-2cab-47c5-bd1d-89ecbdd2ab10)" height="100" /></a>
+<a target="blank"><img align="center" src="https://github.com/mtthuy22/mtthuy22/assets/61125935/8bc3bbca-2cab-47c5-bd1d-89ecbdd2ab10" height="100" /></a>
 
 <!--![github_part1](https://github.com/mtthuy22/mtthuy22/assets/61125935/8bc3bbca-2cab-47c5-bd1d-89ecbdd2ab10)-->
 
