@@ -1,4 +1,4 @@
-<a target="blank"><img align="center" src="https://github.com/mtthuy22/mtthuy22/assets/61125935/8bc3bbca-2cab-47c5-bd1d-89ecbdd2ab10" height="200" /></a>
+<a target="blank"><img align="center" src="https://github.com/mtthuy22/mtthuy22/assets/61125935/8bc3bbca-2cab-47c5-bd1d-89ecbdd2ab10" /></a>
 
 <h1 align="center"> 💫 Welcome to my digital space </h1>
 
