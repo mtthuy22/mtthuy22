@@ -31,5 +31,9 @@
 
 </p>
 
+<h2 align="center"> 💡 Connect with me at: </h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tthuymai/) 
+
 
 ![github_part2](https://github.com/mtthuy22/mtthuy22/assets/61125935/6427b04d-b91f-4be4-ab51-443b349fb9b4)
